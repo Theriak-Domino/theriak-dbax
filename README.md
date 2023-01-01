@@ -1,2 +1,2 @@
 # theriak-dbax
-A repository for thermodynamic databases and a-x files for use with Theriak-Domino, and programs for converting databases.
+A repository for a Mathematica package file used for converting Thermocalc formatted databases and ax files to Theriak-Domino format.
